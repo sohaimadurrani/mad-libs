@@ -1,0 +1,11 @@
+color = input("Enter a color: ")
+scent = input("Enter a scent: ")
+city = input("Enter a city: ")
+adjective = input("Enter an adjective: ")
+celebrity = input("Enter a celebrity: ")
+
+print("Roses are " + color)
+print("They have a fragrance that is " + scent)
+print("They are found in " + city)
+print("Susan is a " + adjective + " girl.")
+print("I love " + celebrity + "!")
